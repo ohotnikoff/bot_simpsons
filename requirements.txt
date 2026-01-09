@@ -17,4 +17,4 @@ torch==2.8.0
 torchvision==0.4.1+cpu
 urllib3==2.5.0
 vk-api==11.5.1
-Werkzeug==3.1.4
+Werkzeug==3.1.5
